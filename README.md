@@ -40,9 +40,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5. For different input combinations generate the timing diagram.
 
 **PROGRAM**
-
-Developed by: KALYANE SREE M    RegisterNumber:212222050028
-
+```
+Developed by:GOBIKA K    
+RegisterNumber:212222050013
+```
 ![program 6](https://github.com/Kalyanesree/exp6/assets/163311552/6c74d273-584b-4142-a55a-10f0d01fa074)
 
 
